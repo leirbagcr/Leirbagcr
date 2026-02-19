@@ -1,11 +1,11 @@
 <h1 align="center">Ola! Seja bem vindo ao meu GitHub</h1>
 
 - 👋 Olá, eu sou o Gabriel Cordeiro Rosa .
-- 
+
 - 📜 Estudando Desenvolvimento de Sistema.
-- 
+  
 - 💻 Programação.
-- 
+  
 - 📫 Tocar Violão,bateria e jogar jogos de fps.
   
 
